@@ -1,0 +1,18 @@
+"/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampDecodingStrategy.swift":
+  const-values: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.swiftconstvalues"
+  object: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.o"
+  dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.d"
+  diagnostics: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.dia"
+  swift-dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.swiftdeps"
+"/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Timestamp+Codable.swift":
+  dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.d"
+  diagnostics: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.dia"
+  object: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.o"
+  swift-dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftdeps"
+  const-values: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftconstvalues"
+"/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/SwiftHeaderWorkaround.swift":
+  const-values: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftconstvalues"
+  swift-dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftdeps"
+  diagnostics: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.dia"
+  dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.d"
+  object: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.o"

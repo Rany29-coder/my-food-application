@@ -1,0 +1,18 @@
+"/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageError.swift":
+  object: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageError.o"
+  const-values: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageError.swiftconstvalues"
+  diagnostics: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageError.dia"
+  dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageError.d"
+  swift-dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageError.swiftdeps"
+"/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetDownloadURLTask.swift":
+  object: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.o"
+  swift-dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.swiftdeps"
+  diagnostics: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.dia"
+  const-values: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.swiftconstvalues"
+  dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.d"
+"/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageDownloadTask.swift":
+  swift-dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.swiftdeps"
+  diagnostics: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.dia"
+  dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.d"
+  object: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.o"
+  const-values: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.swiftconstvalues"

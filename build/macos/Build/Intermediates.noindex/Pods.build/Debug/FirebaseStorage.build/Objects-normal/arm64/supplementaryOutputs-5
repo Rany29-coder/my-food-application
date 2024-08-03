@@ -1,0 +1,18 @@
+"/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageMetadata.swift":
+  const-values: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageMetadata.swiftconstvalues"
+  object: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageMetadata.o"
+  dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageMetadata.d"
+  swift-dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageMetadata.swiftdeps"
+  diagnostics: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageMetadata.dia"
+"/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageObservableTask.swift":
+  diagnostics: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageObservableTask.dia"
+  swift-dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageObservableTask.swiftdeps"
+  dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageObservableTask.d"
+  object: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageObservableTask.o"
+  const-values: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageObservableTask.swiftconstvalues"
+"/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StoragePath.swift":
+  object: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StoragePath.o"
+  swift-dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StoragePath.swiftdeps"
+  const-values: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StoragePath.swiftconstvalues"
+  diagnostics: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StoragePath.dia"
+  dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StoragePath.d"

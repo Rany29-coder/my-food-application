@@ -1,0 +1,18 @@
+"/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/GeoPoint+Codable.swift":
+  const-values: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.swiftconstvalues"
+  dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.d"
+  object: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.o"
+  swift-dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.swiftdeps"
+  diagnostics: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.dia"
+"/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/ServerTimestamp.swift":
+  const-values: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.swiftconstvalues"
+  object: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.o"
+  dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.d"
+  diagnostics: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.dia"
+  swift-dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.swiftdeps"
+"/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/QueryPredicate.swift":
+  const-values: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.swiftconstvalues"
+  dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.d"
+  object: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.o"
+  diagnostics: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.dia"
+  swift-dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.swiftdeps"

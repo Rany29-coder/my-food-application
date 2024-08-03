@@ -1,0 +1,18 @@
+"/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CodableErrors.swift":
+  dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.d"
+  diagnostics: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.dia"
+  const-values: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.swiftconstvalues"
+  swift-dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.swiftdeps"
+  object: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.o"
+"/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CodablePassThroughTypes.swift":
+  diagnostics: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.dia"
+  dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.d"
+  swift-dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.swiftdeps"
+  const-values: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.swiftconstvalues"
+  object: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.o"
+"/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/AsyncAwait/CollectionReference+AsyncAwait.swift":
+  dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.d"
+  swift-dependencies: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.swiftdeps"
+  diagnostics: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.dia"
+  object: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.o"
+  const-values: "/Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.swiftconstvalues"

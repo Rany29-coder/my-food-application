@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/gRPC-C++/src/cpp/common/auth_property_iterator.cc \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/Target\ Support\ Files/gRPC-C++/gRPC-C++-prefix.pch \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/grpc_security.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/port_platform.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/grpc.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/byte_buffer.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/grpc_types.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/channel_arg_names.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/compression_types.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/slice.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/slice_type.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/sync.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/time.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/sync_generic.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/atm.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/atm_gcc_atomic.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/sync_posix.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/status.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/slice_buffer.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/connectivity_state.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/propagation_bits.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/grpc_security_constants.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/gRPC-C++/include/grpcpp/security/auth_context.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/gRPC-C++/include/grpcpp/support/config.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/gRPC-C++/include/grpcpp/support/string_ref.h

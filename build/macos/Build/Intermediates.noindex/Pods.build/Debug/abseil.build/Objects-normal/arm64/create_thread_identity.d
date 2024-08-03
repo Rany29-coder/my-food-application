@@ -1,0 +1,46 @@
+dependencies: \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/synchronization/internal/create_thread_identity.cc \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/Target\ Support\ Files/abseil/abseil-prefix.pch \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/internal/low_level_alloc.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/attributes.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/config.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/options.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/policy_checks.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/port.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/optimization.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/synchronization/internal/waiter.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/synchronization/internal/futex_waiter.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/synchronization/internal/kernel_timeout.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/internal/raw_logging.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/internal/atomic_hook.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/log_severity.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/macros.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/time/clock.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/time/time.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/strings/string_view.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/nullability.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/internal/nullability_impl.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/meta/type_traits.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/internal/throw_delegate.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/time/civil_time.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/time/internal/cctz/include/cctz/civil_time.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/time/internal/cctz/include/cctz/civil_time_detail.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/time/internal/cctz/include/cctz/time_zone.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/synchronization/internal/futex.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/synchronization/internal/waiter_base.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/internal/thread_identity.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/internal/per_thread_tls.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/synchronization/internal/pthread_waiter.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/synchronization/internal/sem_waiter.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/synchronization/internal/stdcpp_waiter.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/synchronization/internal/win32_waiter.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/internal/spinlock.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/const_init.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/dynamic_annotations.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/internal/dynamic_annotations.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/internal/low_level_scheduling.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/internal/scheduling_mode.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/internal/tsan_mutex_interface.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/base/thread_annotations.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/synchronization/internal/per_thread_sem.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/abseil/absl/synchronization/internal/create_thread_identity.h

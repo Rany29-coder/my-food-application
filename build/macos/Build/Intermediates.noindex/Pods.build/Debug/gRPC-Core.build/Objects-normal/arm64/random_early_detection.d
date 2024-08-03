@@ -1,0 +1,41 @@
+dependencies: \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/gRPC-Core/src/core/lib/backoff/random_early_detection.cc \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/Target\ Support\ Files/gRPC-Core/gRPC-Core-prefix.pch \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/gRPC-Core/include/grpc/support/port_platform.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/macos/Pods/gRPC-Core/src/core/lib/backoff/random_early_detection.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/bit_gen_ref.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/fast_type_id.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/internal/distribution_caller.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/utility/utility.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/inline_variable.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/invoke.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/internal/fast_uniform_bits.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/internal/traits.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/bits.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/internal/bits.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/int128.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/int128_have_intrinsic.inc \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/distributions.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/bernoulli_distribution.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/internal/iostream_state_saver.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/beta_distribution.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/internal/fastmath.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/internal/generate_real.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/exponential_distribution.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/gaussian_distribution.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/internal/uniform_helper.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/log_uniform_int_distribution.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/uniform_int_distribution.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/internal/wide_multiply.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/poisson_distribution.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/uniform_real_distribution.h \
+  /Users/ranyhanna/Documents/GitHub/myfoodapp/my__app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/random/zipf_distribution.h
