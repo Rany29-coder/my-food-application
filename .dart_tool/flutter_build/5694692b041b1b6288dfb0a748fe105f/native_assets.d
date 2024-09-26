@@ -1,0 +1,1 @@
+ /Users/ranyhanna/Documents/GitHub/my-food-application/.dart_tool/flutter_build/5694692b041b1b6288dfb0a748fe105f/native_assets.yaml: 
